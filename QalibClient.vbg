@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=QalibGUI\QalibGUI.vbp
+Project=QalibExcel\QalibExcel.vbp
+Project=QalibObjects\QalibObjects.vbp

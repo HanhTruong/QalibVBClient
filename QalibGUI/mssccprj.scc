@@ -1,0 +1,20 @@
+SCC = This is a Source Code Control file
+
+[QalibDataProj.vbp]
+SCC_Aux_Path = "\\pdc\sourcesafe\Source\CALIBRATION"
+SCC_Project_Name = "$/QalibVBClient", BAAAAAAA
+
+[QalibGUIProj.vbp]
+SCC_Aux_Path = "\\pdc\sourcesafe\Source\CALIBRATION"
+SCC_Project_Name = "$/QalibVBClient/Source/QalibGUI", QJAAAAAA
+
+[QalibInputProj.vbp]
+SCC_Aux_Path = "\\pdc\sourcesafe\Source\CALIBRATION"
+SCC_Project_Name = "$/QalibVBClient", BAAAAAAA
+
+[QalibServerProj.vbp]
+SCC_Aux_Path = "\\pdc\sourcesafe\Source\CALIBRATION"
+SCC_Project_Name = "$/QalibVBClient", BAAAAAAA
+[QalibGUI.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
